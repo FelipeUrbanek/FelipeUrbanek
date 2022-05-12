@@ -2,7 +2,7 @@
  Olá, sou Felipe Urbanek, <br> estudante de tecnologia e um entusiasta de inovação!
 
 <div align="center">
-<img align="center" alt="Rafa-pic" height="300" src="https://felipeurbanek.com/img/home_direita.svg">
+<img align="center" alt="Felipe" height="300" src="https://felipeurbanek.com/img/home_direita.svg">
 </div>
 
 <div align="center">
