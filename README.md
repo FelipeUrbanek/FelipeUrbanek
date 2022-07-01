@@ -1,5 +1,5 @@
 <div align="center" style="background-color: 0D1117" >
- Olá, sou Felipe Urbanek, <br> estudante de tecnologia e um entusiasta de inovação!
+ # Olá, sou Felipe Urbanek, <br> estudante de tecnologia e um entusiasta de inovação!
 
 <div align="center">
 <img align="center" alt="Felipe" height="300" src="https://felipeurbanek.com/img/home_direita.svg">
