@@ -4,7 +4,7 @@
 
 
 <div align="center">
-<img align="center" alt="Felipe" height="300" src="https://felipeurbanek.com/img/home_direita.svg">
+<img align="center" alt="Felipe" height="300" src="https://github.com/FelipeUrbanek/Portfolio/blob/master/svg/imagempreview.png?raw=true">
 </div>
 <div align="center">
   <a href="https://github.com/felipeurbanek" >
